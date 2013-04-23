@@ -89,6 +89,15 @@
                 android:targetClass="com.cyanogenmod.settings.device.DeviceSettings" />
     </header>
 
+    <header android:id="@+id/about_aokp_sgt7"
+            android:title="@string/about_aokp_sgt7"
+            android:icon="@drawable/ic_settings_aokp_sgt7" >
+        <intent
+                android:action="android.intent.action.MAIN"
+                android:targetClass="com.aokp.sgt7.about.AboutAOKPSGT7"
+                android:targetPackage="com.aokp.sgt7.about" />
+    </header>
+
     <header android:id="@+id/sprint_tools"
             android:title="@string/sprint_tools_title"
             android:icon="@drawable/ic_sprint_tools">

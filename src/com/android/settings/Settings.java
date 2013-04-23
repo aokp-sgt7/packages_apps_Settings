@@ -125,7 +125,8 @@ public class Settings extends PreferenceActivity
             R.id.rom_control,
             R.id.themes,
             R.id.advanced_settings,
-            R.id.sprint_tools
+            R.id.sprint_tools,
+            R.id.about_aokp_sgt7
     };
 
     private SharedPreferences mDevelopmentPreferences;
