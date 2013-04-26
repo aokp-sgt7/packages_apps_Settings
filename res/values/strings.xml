@@ -4548,6 +4548,9 @@
     <string name="auto_brightness_menu_remove">Remove</string>
     <string name="ok">OK</string>
 
+    <!-- Permissions Management -->
+    <string name="permissions_settings_title">Permissions</string>
+
 <!-- :: : AOKP SGT7 additions : :: -->
 
     <string name="about_aokp_sgt7">About AOKP SGT7</string>
