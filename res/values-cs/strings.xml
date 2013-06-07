@@ -1921,6 +1921,12 @@
         jasu pro kontrolní body, tak ručně vložit požadovaný jas obrazovky. Stisknutím \'Rozdělit\' je možné duplikovat
         jeden řádek do dvou pro vložení dalších kontrolních bodů. \'Ostranit\' vymaže vybraný řádek.
     </string>
+    <string name="auto_brightness_sensitivity_title">Přizpůsobit citlivost</string>
+    <string name="auto_brightness_sensitivity_verylow">Velmi nízká</string>
+    <string name="auto_brightness_sensitivity_low">Nízká</string>
+    <string name="auto_brightness_sensitivity_medium">Střední</string>
+    <string name="auto_brightness_sensitivity_high">Vysoká</string>
+    <string name="auto_brightness_sensitivity_veryhigh">Velmi vysoká</string>
     <string name="vibration_title">Vibrace telefonu</string>
     <string name="link_volume_ringtones">Spojit hlasitosti</string>
     <string name="link_volume_mutes">Spojit tiché režimy</string>
@@ -1942,4 +1948,5 @@
     <string name="camera_sounds_title">Zvuk při focení</string>
     <string name="camera_sounds_summary">POZOR: Vypnutí zvuku fotoaparátu je na některých místech nelegální!</string>
     <string name="permissions_settings_title">Oprávnění</string>
+    <string name="trds_settings_title">Tmavý vzhled</string>
 </resources>
